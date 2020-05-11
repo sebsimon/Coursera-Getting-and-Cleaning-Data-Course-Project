@@ -19,5 +19,5 @@ This is the course project for the Getting and Cleaning Data Coursera course mad
 
 # This Repo contais as well:
   
- - CodeBook.md : Code Book describing the variables by name, the data and the transformations performed to tyde and    organice the fila data set. 
+ - CodeBook.md : Code Book name the variables, the data and the transformations performed to tyde and    organice the final data set. 
  - FinalData.txt : Is the final result Data afer all the above steps as required in the course.
